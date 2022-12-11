@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@1,900&display=swap');
+
+.main-header {
+    background-image: url("../coding\ 3.jpg");
+    background-size: cover;
+    background-color: rgba(0, 0, 0, .3);
+    background-blend-mode: multiply;
+    }
+   
+.nav ul {
+    margin: 0%;
+    }
+    
+    .nav li {
+       display: inline;
+        }
+        .nav a {
+        display: inline-block;
+        padding: .5em;
+        text-decoration: none;
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+        }
+        
+        .nav a:hover {
+         background-color:  rgba(255, 255, 255, .3);
+         
+         }
+    
+         .main-nav {
+        text-align: center; 
+        font-size: 1.2em ;
+        font-weight: lighter;
+        border-bottom: 1px solid rgba(255, 255, 255, .3);
+         }
+    
+         .main-nav li {
+        padding: 0 5%
+         }
+    
+         .logo {
+        text-align: center;
+        margin: 0%;
+        font-size: 3.5em;
+        color: rgba(240, 255, 255, .9); 
+        font-family: 'Alegreya', serif; }
+    
+    .logo-large {
+        font-size: 7em;
+    }
+
+    nav {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between ;
+    }
+
+    .hero-colour {
+    background-color: rgba(137, 43, 226, .2);
+    background-image: url("../coding\ girl\ 2.jpg") ;
+    background-size: cover;
+    font-family: 'Alegreya', serif; }
+    
+    
