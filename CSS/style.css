@@ -6,6 +6,7 @@
     background-color: rgba(0, 0, 0, .3);
     background-blend-mode: multiply;
     }
+
    
 .nav ul {
     margin: 0%;
@@ -60,4 +61,34 @@
     background-size: cover;
     font-family: 'Alegreya', serif; }
     
-    
+    .gallery {
+    margin: 0%;
+    padding: 0%;
+    }
+
+    .card-body {
+    font-family: 'Alegreya', serif; color:   rgba(110, 105, 108, 0.3);}
+
+   .card-body-2 {
+   background-image: url("https://media.istockphoto.com/id/1347788677/vector/loading-bar-doodle-element-hand-drawn.jpg?s=612x612&w=0&k=20&c=VK29Xk9lRpAmHx-4ixRCCGaNAEoil6dBPWnXQIRv_hs="); 
+   background-size: cover;
+  }
+
+  .card-body-1 {
+    background-image: url("https://media.istockphoto.com/id/1347788677/vector/loading-bar-doodle-element-hand-drawn.jpg?s=612x612&w=0&k=20&c=VK29Xk9lRpAmHx-4ixRCCGaNAEoil6dBPWnXQIRv_hs="); 
+    background-size: cover;
+   }
+   .card-body-3 {
+    background-image: url("https://media.istockphoto.com/id/1347788677/vector/loading-bar-doodle-element-hand-drawn.jpg?s=612x612&w=0&k=20&c=VK29Xk9lRpAmHx-4ixRCCGaNAEoil6dBPWnXQIRv_hs="); 
+    background-size: cover;
+   }
+   .card-body-4 {
+    background-image: url("https://media.istockphoto.com/id/1347788677/vector/loading-bar-doodle-element-hand-drawn.jpg?s=612x612&w=0&k=20&c=VK29Xk9lRpAmHx-4ixRCCGaNAEoil6dBPWnXQIRv_hs="); 
+    background-size: cover;
+   }
+
+   .btn{
+   background:rgba(217, 165, 238, 0.6) 
+   }
+  
+  
